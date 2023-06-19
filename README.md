@@ -1,5 +1,7 @@
 ### Stupid Database
 
+#this is a exercise basead on code from akitaonrails
+
 This is an exercise in building a very minimal (and very stupid) in-memory SQL-like database for educational purposes.
 
 None of this code is to be considered usable in a real project. There are no safeguards, security, checks, or anything that resembles production-ready code. And it's written this way to be easily understandable for a very beginner programmer.
