@@ -1,6 +1,6 @@
 ### Stupid Database
 
-#this is a exercise basead on code from akitaonrails
+#this is an exercise basead on code from akitaonrails
 
 This is an exercise in building a very minimal (and very stupid) in-memory SQL-like database for educational purposes.
 
